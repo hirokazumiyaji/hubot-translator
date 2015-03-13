@@ -1,0 +1,20 @@
+ {
+  "author": "Hirokazu Miyaji",
+  "name": "hubot-translator",
+  "version": "0.0.1",
+  "description": "Microsoft Translator API hubot",
+  "homepage": "https://github.com/hirokazumiyaji/hubot-translator.git",
+  "main": "index.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hirokazumiyaji/hubot-translator.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "microsoft",
+    "translator"
+  ],
+  "dependencies": {
+  }
+}
